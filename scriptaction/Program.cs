@@ -34,7 +34,7 @@ namespace scriptaction
         private const string AppNameDatameer = "DatameerV2";
         private const string AppNameHue = "Hue";
         private const string AppScriptActionName = "Testwritehostname";
-        private const string AppScriptActionUri = "https://dulestorage.blob.core.windows.net/publichumboldtscriptactions/write-hostname-to-storage.sh";
+        private const string AppScriptActionUri = "https://hdiconfigactions.blob.core.windows.net/linuxsampleconfigaction/sample.sh";
         
         
         static void Main(string[] args)
