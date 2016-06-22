@@ -33,3 +33,7 @@ This example shows how to work with Script Actions on a running cluster using th
         // _hdiManagementClient.Clusters.DeletePersistedScript(ResourceGroupName, ClusterName, "<scriptname>");
 
 For more information on using Script Actions, see [Customize HDInsight clusters using Script Actions](https://azure.microsoft.com/documentation/articles/hdinsight-hadoop-customize-cluster-linux/).
+
+## Project code of conduct
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
