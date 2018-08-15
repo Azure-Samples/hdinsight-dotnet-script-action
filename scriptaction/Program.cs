@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Microsoft.Azure;
 using Microsoft.Azure.Management.HDInsight;
 using Microsoft.Azure.Management.HDInsight.Models;
