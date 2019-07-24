@@ -1,11 +1,12 @@
 ---
-page_type: sample
 description: "Script Actions can be used to customize HDInsight clusters by performing custom configuration or installing additional components."
 languages:
 - csharp
 products:
+- dotnet
 - azure
 - azure-hdinsight
+page_type: sample
 urlFragment: apply-script-action-linux-hdinsight
 ---
 
