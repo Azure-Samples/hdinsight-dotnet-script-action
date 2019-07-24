@@ -17,7 +17,7 @@ This example shows how to work with Script Actions on a running cluster using th
 
 ## How to use
 
-1. [Create a Linux-based HDInsight cluster](https://azure.microsoft.com/documentation/articles/hdinsight-hadoop-provision-linux-clusters/).
+1. [Create a Linux-based HDInsight cluster](https://docs.microsoft.com/azure/hdinsight/hdinsight-hadoop-provision-linux-clusters).
 2. Copy this project locally and open in Visual Studio 2015.
 3. Modify the following lines to add your __Azure subscription ID__, __HDInsight cluster name__, and the __Azure Resource Group__ that the cluster was created in.
 ```csharp
