@@ -1,8 +1,14 @@
 ---
-services: hdinsight
-platforms: dotnet
-author: blackmist
+page_type: sample
+description: "Script Actions can be used to customize HDInsight clusters by performing custom configuration or installing additional components."
+languages:
+- csharp
+products:
+- azure
+- azure-hdinsight
+urlFragment: apply-script-action-linux-hdinsight
 ---
+
 # Apply a Script Action against a running Linux-based HDInsight cluster
 
 Script Actions can be used to customize HDInsight clusters by performing custom configuration or installing additional software components. Until March 2016, you could only use Script Actions when creating a cluster. Now, you can apply Script Actions both during cluster creation and to a running Linux-based cluster (Windows-based clusters are still limited to only using Script Actions during cluster creation.)
