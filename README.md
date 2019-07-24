@@ -9,7 +9,7 @@ Script Actions can be used to customize HDInsight clusters by performing custom 
 
 This example shows how to work with Script Actions on a running cluster using the .NET SDK for HDInsight.
 
-##How to use
+## How to use
 
 1. [Create a Linux-based HDInsight cluster](https://azure.microsoft.com/documentation/articles/hdinsight-hadoop-provision-linux-clusters/).
 2. Copy this project locally and open in Visual Studio 2015.
